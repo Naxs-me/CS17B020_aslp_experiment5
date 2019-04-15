@@ -1,3 +1,7 @@
+#not a submission
+#not a submission
+#not a submission
+
 main:
 	addi	$sp,$sp,-8
 	sw	$s0,0($sp)
@@ -26,3 +30,7 @@ quo:
 	slt	$t6,$t5,33
 	bnez	$t6,start
 	j	$31
+
+#not a submission
+#not a submission
+#not a submission
